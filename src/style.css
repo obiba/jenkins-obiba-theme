@@ -18,9 +18,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: #000000; }
 
-a:link, a:visited {
+a, a:link, a:visited {
     text-decoration: none;
-    color: #3b73af;
+    color: #02A676;
 }
 
 a:hover, a:active {
